@@ -1,0 +1,4 @@
+name: biomeDisplay
+version: '${project.version}'
+main: world.biomedisplay.BiomeDisplay
+api-version: '1.20'
