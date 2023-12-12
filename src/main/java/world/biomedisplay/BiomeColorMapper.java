@@ -41,6 +41,11 @@ public class BiomeColorMapper {
         biomeColorMap.put("GIANT_SPRUCE_TAIGA", ChatColor.DARK_GREEN);
         biomeColorMap.put("GIANT_SPRUCE_TAIGA_HILLS", ChatColor.DARK_GREEN);
         biomeColorMap.put("BAMBOO_JUNGLE", ChatColor.DARK_GREEN);
+        biomeColorMap.put("BAMBOO_JUNGLE_HILLS", ChatColor.DARK_GREEN);
+        biomeColorMap.put("TALL_BAMBOO_JUNGLE", ChatColor.DARK_GREEN);
+        biomeColorMap.put("TALL_BAMBOO_HILLS", ChatColor.DARK_GREEN);
+        biomeColorMap.put("SPARSE_JUNGLE", ChatColor.DARK_GREEN);
+        biomeColorMap.put("OLD_GROWTH_BIRCH_FOREST", ChatColor.DARK_GREEN);
 
         biomeColorMap.put("DESERT", ChatColor.YELLOW);
         biomeColorMap.put("DESERT_HILLS", ChatColor.YELLOW);
@@ -48,6 +53,7 @@ public class BiomeColorMapper {
         biomeColorMap.put("BADLANDS", ChatColor.YELLOW);
         biomeColorMap.put("WOODED_BADLANDS_PLATEAU", ChatColor.YELLOW);
         biomeColorMap.put("BADLANDS_PLATEAU", ChatColor.YELLOW);
+        biomeColorMap.put("WINDSWEPT_SAVANNA", ChatColor.YELLOW);
 
         biomeColorMap.put("MOUNTAINS", ChatColor.GRAY);
         biomeColorMap.put("MOUNTAIN_EDGE", ChatColor.GRAY);
@@ -63,8 +69,11 @@ public class BiomeColorMapper {
         biomeColorMap.put("ERODED_BADLANDS", ChatColor.GRAY);
         biomeColorMap.put("MODIFIED_WOODED_BADLANDS_PLATEAU", ChatColor.GRAY);
         biomeColorMap.put("MODIFIED_BADLANDS_PLATEAU", ChatColor.GRAY);
+        biomeColorMap.put("WINDSWEPT_HILLS", ChatColor.GRAY);
+        biomeColorMap.put("STONY_SHORE", ChatColor.GRAY);
 
         biomeColorMap.put("SNOWY_TUNDRA", ChatColor.WHITE);
+        biomeColorMap.put("GROVE", ChatColor.WHITE);
 
         biomeColorMap.put("DRIPSTONE_CAVES", ChatColor.DARK_GRAY);
         biomeColorMap.put("DRIPSTONE_CAVE", ChatColor.DARK_GRAY);
@@ -91,8 +100,11 @@ public class BiomeColorMapper {
         biomeColorMap.put("FROZEN_OCEAN", ChatColor.BLUE);
         biomeColorMap.put("RIVER", ChatColor.BLUE);
 
-        biomeColorMap.put("DEEP_WARM_OCEAN", ChatColor.DARK_BLUE);
-        biomeColorMap.put("DEEP_LUKEWARM_OCEAN", ChatColor.DARK_BLUE);
+        biomeColorMap.put("FROZEN_PEAKS", ChatColor.AQUA);
+
+        biomeColorMap.put("DEEP_WARM_OCEAN", ChatColor.DARK_AQUA);
+        biomeColorMap.put("DEEP_LUKEWARM_OCEAN", ChatColor.DARK_AQUA);
+
         biomeColorMap.put("DEEP_COLD_OCEAN", ChatColor.DARK_BLUE);
         biomeColorMap.put("DEEP_FROZEN_OCEAN", ChatColor.DARK_BLUE);
 
