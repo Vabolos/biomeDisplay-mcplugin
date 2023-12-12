@@ -2,3 +2,9 @@ name: biomeDisplay
 version: '${project.version}'
 main: world.biomedisplay.BiomeDisplay
 api-version: '1.20'
+
+commands:
+  togglebiomedisplay:
+    description: Toggles the biome display on and off
+    usage: /<command>
+    aliases: [tbd]
